@@ -15,4 +15,5 @@ public class Myi18NController {
     public String sayHello(){
         return  greetingService.sayGreeting();
     }
+
 }
